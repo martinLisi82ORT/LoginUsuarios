@@ -8,7 +8,7 @@ La aplicacion permite:
 * El rol de "admin" permite, ademas de visualizar listado de usuarios, dar de Alta, Baja, Modificacion y Eliminacion (CRUD) de distintos usuarios.
 * Las vistas de Alta y Modificacion cuentan con validaciones para evitar campos vacios.
 
-
+---
 ### Herramientas utilizadas:
 Java | MySQL | Netbeans 
 
